@@ -1,0 +1,35 @@
+33
+train Freight Train
+bus School Bus
+car Subaru WRX
+motorcycle Harley Softail
+car Chevy Camaro
+train Passenger
+car Ford Mustang
+motorcycle Suzuki 250F
+motorcycle KTM XC-W 300
+car Honda Civic EX Coupe
+bus Passenger Bluebird
+train High Speed Rail
+bus City Transit
+car Toyota Camry
+motorcycle Yamaha R1
+car BMW M3
+train Cargo Express
+car Tesla Model S
+motorcycle Ducati Monster
+motorcycle Honda CBR600
+car Nissan GT-R
+bus Tour Coach
+train Metro Commuter
+car Porsche 911
+motorcycle BMW GS Adventure
+car Jeep Wrangler
+bus Double Decker
+car Audi A4
+motorcycle Indian Scout
+train Steam Locomotive
+car Mercedes C-Class
+bus Electric Shuttle
+motorcycle Triumph Bonneville
+car Volkswagen Golf

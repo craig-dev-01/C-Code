@@ -11,7 +11,8 @@ Below is a brief description of my portfolio's contents.
 Currently I have two programs in my repo. To make running each program easier, I combined all of the classes for each program into one .java file. 
 
 Programs: 
-  Vehicle: 
+  
+  VehicleTest: 
       This program has 6 classes and a test class. Additionally The vehicles.txt file is required to run the program. 
       This program is all about object-oriented programming 
  

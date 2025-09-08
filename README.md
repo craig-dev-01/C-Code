@@ -14,6 +14,7 @@ Programs:
   Vehicle: 
       This program has 6 classes and a test class. Additionally The vehicles.txt file is required to run the program. 
       This program is all about object-oriented programming 
-  Writer-Reader:
+ 
+  LogicExample:
       This program creates a file, fills it with random values, reads the values, loads them into arrays, and manually sorts the arrays before displaying array contents
       This program is all about building logic, reading and writing to files, and handling data.

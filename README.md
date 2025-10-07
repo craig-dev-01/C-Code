@@ -20,7 +20,7 @@ Programs:
       This program creates a file, fills it with random values, reads the values, loads them into arrays, and manually sorts the arrays before displaying array contents
       This program is all about building logic, reading and writing to files, and handling data.
 
-  CraigSTack:
+  CraigStack:
    This program demonstrates stack operations using both the Java Collections Framework (JCF)
    and a custom generic stack class. It counts even integers in a JCF stack without modifying it,
    and performs generic stack manipulation including reading from files, combining stacks,

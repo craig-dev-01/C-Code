@@ -26,4 +26,5 @@ Programs:
    and performs generic stack manipulation including reading from files, combining stacks,
    sorting stacks, and removing duplicates. All operations are implemented for both Integer
    and String types using generic methods and a custom GenericStack<E> class. The GenericStack<E> 
-   class is included in this java file.
+   class is included in this java file. Several files are required for 
+   this program: Numbers1.txt, Numbers2.txt, Strings1.txt, and Strings2.txt.
